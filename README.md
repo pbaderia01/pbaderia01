@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/43137727/87554878-55045300-c6d2-11ea-9d82-68df1c10f929.png" alt="Hero image">
 
-                   A devops engineer breaking production every day, every way possible! :fire_engine:
+                   A devops engineer breaking production every day, every way possible!
 
 <!--
 **pbaderia01/pbaderia01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
