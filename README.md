@@ -31,6 +31,3 @@ Here are some ideas to get you started:
     <img align="center" src="https://pbaderia01-visitor-badge.glitch.me/badge?page_id=pbaderia01.visitor-badge">
   </p>
 </p>
-<footer>
-  <p><img src="https://github.com/pbaderia01/pbaderia01/blob/master/footer.png"></p>
-</footer>
