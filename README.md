@@ -21,9 +21,10 @@ Here are some ideas to get you started:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/piyushbaderia" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/baderiapiyush" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:piyush.baderia@outlook.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://twitter.com/piyushbaderia" alt="Twitter"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/twitter.svg"></a>
+    <a href="https://www.linkedin.com/in/baderiapiyush" alt="Linkedin"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/linkedin.svg"></a>
+    <a href="mailto:piyush.baderia@outlook.com" alt="Contact me"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/email.svg"></a>
+    <a href="https://stackoverflow.com/story/piyushbaderia" alt="Contact me"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/stackover.svg"></a>
   <p align="center">
     <img align="center" src="https://github.com/pbaderia01/pbaderia01/blob/master/key.svg">
   </p>
