@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=pbaderia01)](https://github.com/anuraghazra/github-readme-stats)
+[![Piyush's github stats (Public Contributions)](https://github-readme-stats.vercel.app/api?username=pbaderia01)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
