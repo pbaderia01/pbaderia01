@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/43137727/87554878-55045300-c6d2-11ea-9d82-68df1c10f929.png" alt="Hero image">
+
 <!--
 **pbaderia01/pbaderia01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <hr>
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
