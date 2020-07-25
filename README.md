@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
   <p align="center">
     <a href="https://twitter.com/piyushbaderia" alt="Twitter"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/twitter.svg"></a>
     <a href="https://www.linkedin.com/in/baderiapiyush" alt="Linkedin"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/linkedin.svg"></a>
