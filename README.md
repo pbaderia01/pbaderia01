@@ -25,7 +25,4 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/baderiapiyush" alt="Linkedin"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/linkedin.svg"></a>
     <a href="mailto:piyush.baderia@outlook.com" alt="Contact me"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/email.svg"></a>
     <a href="https://stackoverflow.com/story/piyushbaderia" alt="Contact me"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/stackover.svg"></a>
-  <p align="center">
-    <img align="center" src="https://pbaderia01-visitor-badge.glitch.me/badge?page_id=pbaderia01.visitor-badge">
-  </p>
 </p>
