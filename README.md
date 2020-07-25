@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr>
-
 <p align="center">
   <p align="center">
     <a href="https://twitter.com/piyushbaderia" alt="Twitter"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/twitter.svg"></a>
