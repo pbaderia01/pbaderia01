@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbaderia01)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <p align="center">
     <a href="https://twitter.com/piyushbaderia" alt="Twitter"><img src="https://github.com/pbaderia01/pbaderia01/blob/master/assets/twitter.svg"></a>
